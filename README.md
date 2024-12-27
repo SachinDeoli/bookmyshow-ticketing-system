@@ -2,7 +2,7 @@
 ## Overview
 This project implements a ticketing system for BookMyShow, including the database schema and SQL queries.
 
-## Folder Structure
+## Project Structure
 ```bash
 bookmyshow-ticketing-system/
 │
